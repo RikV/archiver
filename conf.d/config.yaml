@@ -1,0 +1,8 @@
+protocol:
+  - ssh
+remote:
+  ssh:
+    host: "localhost"
+    user: archiver
+    port: 2222
+  generic:

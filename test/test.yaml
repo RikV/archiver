@@ -1,0 +1,10 @@
+string: top_scope_string
+array:
+  - "top_scope_array_value1"
+  - "top_scope_array_value2"
+test:
+  string: test_string
+  array:
+    - "test_array_value1"
+    - "test_array_value2"
+    - "test_array_value3"

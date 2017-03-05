@@ -1,0 +1,4 @@
+pattern:
+  include:
+    - '/var/log/*/*.gz'
+    - '/var/log/*/*.zip'
